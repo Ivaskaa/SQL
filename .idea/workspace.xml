@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1465fa61-33bf-4683-90f4-3c3793072938" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/Override.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29OTFW6JXVezsV61y40czNN6KQL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;6684470d-d42d-42a7-8a74-50dad76b5842&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Н-3/IdeaProjects/Algorithms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Н-3\IdeaProjects\SQLJDBC\src\main\java\forShoppingCart" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JDBC.forUser" />
+      <recent name="JDBC.forShoppingCart" />
+      <recent name="JDBC.forProduct" />
+      <recent name="JDBC.forOrder" />
+      <recent name="JDBC.forDetailsUser" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="hibernateEntity" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderDAOImplTest.getById">
+    <configuration name="OrderDAOImplTest.getById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQLJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.dao.forOrder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Hibernate.dao.forOrder" />
+      <option name="MAIN_CLASS_NAME" value="Hibernate.dao.forOrder.OrderDAOImplTest" />
+      <option name="METHOD_NAME" value="getById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQLJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.dao.forProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Hibernate.dao.forProduct" />
+      <option name="MAIN_CLASS_NAME" value="Hibernate.dao.forProduct.ProductDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDAOImplTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQLJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.dao.forProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Hibernate.dao.forProduct" />
+      <option name="MAIN_CLASS_NAME" value="Hibernate.dao.forProduct.ProductDAOImplTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDAOImplTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQLJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.dao.forProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Hibernate.dao.forProduct" />
+      <option name="MAIN_CLASS_NAME" value="Hibernate.dao.forProduct.ProductDAOImplTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDAOImplTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQLJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.dao.forProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Hibernate.dao.forProduct" />
+      <option name="MAIN_CLASS_NAME" value="Hibernate.dao.forProduct.ProductDAOImplTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderDAOImplTest.getById" />
+        <item itemvalue="JUnit.ProductDAOImplTest" />
+        <item itemvalue="JUnit.ProductDAOImplTest.delete" />
+        <item itemvalue="JUnit.ProductDAOImplTest.getAll" />
+        <item itemvalue="JUnit.ProductDAOImplTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1465fa61-33bf-4683-90f4-3c3793072938" name="Changes" comment="" />
+      <created>1652983031828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652983031828</updated>
+      <workItem from="1653217866152" duration="7487000" />
+      <workItem from="1653235285458" duration="6612000" />
+      <workItem from="1653244076140" duration="2796000" />
+      <workItem from="1653299617666" duration="6269000" />
+      <workItem from="1653392716326" duration="1152000" />
+      <workItem from="1653398374800" duration="451000" />
+      <workItem from="1653419388561" duration="8566000" />
+      <workItem from="1653470413103" duration="25000" />
+      <workItem from="1653473064625" duration="5507000" />
+      <workItem from="1653572718337" duration="9535000" />
+      <workItem from="1653640587242" duration="7122000" />
+      <workItem from="1653721857887" duration="22791000" />
+      <workItem from="1653760450024" duration="2144000" />
+      <workItem from="1653840590245" duration="4867000" />
+      <workItem from="1653992928549" duration="4834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
